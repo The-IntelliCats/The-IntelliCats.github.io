@@ -1,2 +1,2 @@
-# UC-IntelliCats.github.io
-Website for the UC IntelliCats team!
+# The-IntelliCats.github.io
+Website for the The IntelliCats team!
